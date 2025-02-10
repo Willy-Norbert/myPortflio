@@ -10,7 +10,7 @@ This is a personal portfolio website built using **HTML**, **CSS**, **JavaScript
 - Responsive design for mobile and desktop views.
 
 ## How to View
-You can view the live website at: []
+You can view the live website at: [https://willy-norbert.github.io/myPortflio/]
 
 ## Technologies Used
 - HTML, CSS, JavaScript
