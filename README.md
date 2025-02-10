@@ -17,6 +17,12 @@ You can view the live website at: []
 - Git for version control
 
 ## Installation
-1. Clone the repository:
+1. codes to push to github repository:
    ```bash
    git clone <repository-url>
+   git clone <repository-url>
+   cd <repository-name>
+   git status
+   git add <file-name>
+   git commit -m "Your commit message"
+   git push origin main
