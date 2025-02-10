@@ -6,14 +6,14 @@ This is a personal portfolio website built using **HTML**, **CSS**, **JavaScript
 - Professional introduction on the homepage.
 - "About Me" section with skills, education, and experience.
 - project and skills section to showcase ongoing projects.
-- Contact form from contact button  for visitors to reach out.
+- Contact form from contact button  for visitors to reach out where i get their messages on my email.
 - Responsive design for mobile and desktop views.
 
 ## How to View
 You can view the live website at: [https://willy-norbert.github.io/myPortflio/]
 
 ## Technologies Used
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript and bootstrap
 - Git for version control
 
 ## Installation
